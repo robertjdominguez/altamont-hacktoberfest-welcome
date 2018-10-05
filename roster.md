@@ -10,5 +10,5 @@ Faculty
 Python
 
 ### David Niederweis
-12th grade
-Javascript
+12th grade  
+Javascript  
