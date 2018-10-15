@@ -20,6 +20,10 @@ Javascript
 =======
 Javascript  
 
+### Ryan James
+Faculty  
+Python
+=======
 ### Amrita Lakhanpal 
 12th grade  
 Java
