@@ -13,6 +13,10 @@ Python
 12th grade  
 Javascript  
 
+### Amrita Lakhanpal 
+12th grade  
+Java
+=======
 ### Eddy Dunn
 53rd Grade   
 Cobol
