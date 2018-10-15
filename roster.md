@@ -19,6 +19,10 @@ Javascript
 =======
 Javascript  
 
+### Harrison Coleman
+9th grade  
+Javascript
+=======
 ### Julie Beckwith
 13th grade  
 Japanese
