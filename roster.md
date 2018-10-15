@@ -12,3 +12,7 @@ Python
 ### David Niederweis
 12th grade  
 Javascript  
+
+### Mason Coleman
+7th  grade  
+Python
