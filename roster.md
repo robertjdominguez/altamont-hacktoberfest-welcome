@@ -12,3 +12,6 @@ Python
 ### David Niederweis
 12th grade  
 Javascript  
+### Danielle Wattleton-Anderson
+12th grade  
+Java
