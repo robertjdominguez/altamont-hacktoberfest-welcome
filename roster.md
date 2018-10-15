@@ -12,3 +12,7 @@ Python
 ### David Niederweis
 12th grade  
 Javascript  
+
+### Eddy Dunn
+53rd Grade   
+Cobol
