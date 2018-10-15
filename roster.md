@@ -13,6 +13,15 @@ Python
 12th grade  
 Javascript  
 
+### Maddox McRae
+7th  Grade
+html
+=======
+### McNair Shah
+6th grade  
+C#
+=======
+
 ### Elle Warren
 5th grade  
 python
@@ -29,3 +38,4 @@ Java
 ### Noah Warren
 8th Grade  
 HTML
+=======
