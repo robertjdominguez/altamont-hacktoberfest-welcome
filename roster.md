@@ -19,6 +19,10 @@ Javascript
 =======
 Javascript  
 
+### Julie Beckwith
+13th grade  
+Japanese
+=======
 ### caden williams
 7th grade  
 no idea
