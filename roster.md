@@ -12,3 +12,7 @@ Python
 ### David Niederweis
 12th grade  
 Javascript  
+
+### Amrita Lakhanpal 
+12th grade 
+Java
