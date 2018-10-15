@@ -19,6 +19,10 @@ Javascript
 =======
 Javascript  
 
+### Naren Jetty
+8th grade  
+python
+=======
 ### Colin Hatcher
 8th grade  
 HTML
