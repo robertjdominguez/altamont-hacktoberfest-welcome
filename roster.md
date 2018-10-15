@@ -11,4 +11,9 @@ Python
 
 ### David Niederweis
 12th grade  
-Javascript  
+Javascript
+
+
+### Jeremy Doster
+7th grade  
+Javascript
