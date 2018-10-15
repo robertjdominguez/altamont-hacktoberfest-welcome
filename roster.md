@@ -16,3 +16,22 @@ Javascript
 ### Maddox McRae
 7th  Grade
 html
+=======
+### McNair Shah
+6th grade  
+C#
+=======
+
+### Elle Warren
+5th grade  
+python
+=======
+### Bud Gidiere
+8th grade
+Python
+Is a l33t h@x0r
+=======
+### Danielle Wattleton-Anderson
+Faculty  
+Java
+
