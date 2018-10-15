@@ -12,3 +12,7 @@ Python
 ### David Niederweis
 12th grade  
 Javascript  
+
+### Julie Beckwith
+13th grade  
+Japanese
