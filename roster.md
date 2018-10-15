@@ -13,5 +13,5 @@ Python
 12th grade  
 Javascript  
 ### Danielle Wattleton-Anderson
-12th grade  
+Faculty  
 Java
