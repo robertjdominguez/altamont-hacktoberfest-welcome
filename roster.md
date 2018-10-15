@@ -13,6 +13,10 @@ Python
 12th grade  
 Javascript  
 
+### Maddox McRae
+7th  Grade
+html
+=======
 ### McNair Shah
 6th grade  
 C#
@@ -30,3 +34,4 @@ Is a l33t h@x0r
 ### Danielle Wattleton-Anderson
 Faculty  
 Java
+
