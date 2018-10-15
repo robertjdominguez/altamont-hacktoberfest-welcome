@@ -15,7 +15,7 @@ Welcome to The Altamont School's Hacktoberfest guide. This repository will aid y
 ## Rooms
 
 | Room          | Language      | Leader     |
-| ------------- |:-------------:| ----------:|
+| :------------ |:-------------:| ----------:|
 | CS Lab        | Python        | Mary-Allen |
 | Borst         | HTML/JS       | Henry      |
 | Ramey         | C             | David      |

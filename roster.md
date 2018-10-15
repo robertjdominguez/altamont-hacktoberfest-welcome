@@ -16,3 +16,12 @@ Javascript
 ### Elle Warren
 5th grade  
 python
+=======
+### Bud Gidiere
+8th grade
+Python
+Is a l33t h@x0r
+=======
+### Danielle Wattleton-Anderson
+Faculty  
+Java
