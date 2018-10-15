@@ -14,5 +14,5 @@ Python
 Javascript  
 
 ### Amrita Lakhanpal 
-12th grade 
+12th grade  
 Java
