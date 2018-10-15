@@ -19,6 +19,10 @@ Javascript
 =======
 Javascript  
 
+### Mason Coleman
+7th  grade  
+Python
+=======
 ### Naren Jetty
 8th grade  
 python
