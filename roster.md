@@ -8,3 +8,7 @@ Favorite language
 ### Rob Dominguez
 Faculty  
 Python
+
+### David Niederweis
+12th grade  
+Javascript  
