@@ -19,6 +19,10 @@ Javascript
 =======
 Javascript  
 
+### Colin Hatcher
+8th grade  
+HTML
+=======
 ### Harrison Coleman
 9th grade  
 Javascript
