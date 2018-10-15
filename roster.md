@@ -12,6 +12,7 @@ Python
 ### David Niederweis
 12th grade  
 Javascript  
-###Colin Hatcher
+
+### Colin Hatcher
 8th grade  
 HTML
