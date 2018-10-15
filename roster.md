@@ -12,3 +12,6 @@ Python
 ### David Niederweis
 12th grade  
 Javascript  
+### McNair Shah
+6th grade
+C#
