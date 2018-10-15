@@ -13,6 +13,11 @@ Python
 12th grade  
 Javascript  
 
+### McNair Shah
+6th grade  
+C#
+=======
+
 ### Elle Warren
 5th grade  
 python
